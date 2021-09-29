@@ -29,7 +29,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://www.instagram.com/p/CDZvm1En91_gwMfVs2TUrJMOFUWQOMUXqsGzs00/).
 
 ### Jekyll Themes
 
