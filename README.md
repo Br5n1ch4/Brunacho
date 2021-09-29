@@ -8,6 +8,7 @@
 - La musica, escucho cualquier tipo de música menos Reggeton 
 
 ### Este soy yo
+![116797683_215704373138730_7696909734294954993_n(1)](https://user-images.githubusercontent.com/90352697/135342837-b58e627d-b8dc-4539-beda-93e8c327f771.jpg)
 
 or
 
