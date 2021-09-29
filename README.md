@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Bruno Ignacio Santibañez Peña
 
-You can use the [editor on GitHub](https://github.com/Br5n1ch4/Brunacho/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- Tengo 21 años
+- Estudio Ingeniería en ejecución en Informatica, estoy en tercer año de esta carrera
+- Cosas que me gustan:
+- El futbol, soy hincha de colo colo y de forma internacional la Juventus
+- Italia, su idioma y su infraestructura 
+- La musica, escucho cualquier tipo de música menos Reggeton 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Este soy yo
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+or
 
 ```markdown
 Syntax highlighted code block
